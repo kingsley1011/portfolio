@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.local
+
+# Dependencies
+node_modules/
